@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a payment gateway website, I'm currently learning PostgreSQL with Python, <br>I love to solve any problem with code, it gives me inner peace☮️.
+Solving problems one step at a time.
 
 
 ## 🌐 Socials:
